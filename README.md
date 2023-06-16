@@ -1,4 +1,4 @@
-## Hello There!
+### Hello There!
 
 I'm Hugh Baldwin, a 1st year Computer Science student at the University of Portsmouth
 
